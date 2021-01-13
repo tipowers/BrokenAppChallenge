@@ -21,7 +21,7 @@ namespace Pokemon_Console
 
             while (continueToRunMenu)
             {
-                Console.WriteLine("What would you like to do?\n" +
+                Console.WriteLine("What would you like to do?\n\n" +
                     "1. See my Pokemon Team\n" +
                     "2. Add new Pokemon to my Team\n" +
                     "3. Update a Pokemon on my Team\n" +
